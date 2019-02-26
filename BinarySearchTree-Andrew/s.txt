@@ -1,0 +1,13 @@
+Preorder: 4 
+Inorder: 2 
+Postorder: 2 Preorder: 3 
+Inorder: 3 
+Postorder: 3 Preorder: 2 
+Inorder: 4 
+Postorder: 5 Preorder: 45 
+Inorder: 5 
+Postorder: 212 Preorder: 5 
+Inorder: 45 
+Postorder: 45 Preorder: 212 
+Inorder: 212 
+Postorder: 4 

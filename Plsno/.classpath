@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/MathBoy/Documents/EclipseStuff/Plsno/jgoodies-common-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MathBoy/Documents/EclipseStuff/Plsno/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MathBoy/Documents/EclipseStuff/Plsno/miglayout-core-5.1-20160420.220011-391.jar"/>
+	<classpathentry kind="lib" path="C:/Users/MathBoy/Documents/EclipseStuff/Plsno/miglayout-swing-5.1-20160424.220019-395.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

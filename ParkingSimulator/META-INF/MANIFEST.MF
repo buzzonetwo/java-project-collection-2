@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+Built-By: Karsten
+Specification-Title: JGoodies Common API Specification
+Specification-Vendor: JGoodies Software GmbH
+Specification-Version: 1.7
+Implementation-Title: JGoodies Common
+Implementation-Vendor: JGoodies Software GmbH
+Implementation-Version: 1.7.0 2013-11-13 09:46:30
+

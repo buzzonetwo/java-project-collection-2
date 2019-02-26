@@ -1,0 +1,40 @@
+Monday:A:Andy,
+Monday:B:
+Monday:C:
+Monday:D:Dr. Brakeman,
+Monday:Lunch:
+Monday:E:
+Monday:F:
+Monday:G:
+Tuesday:B:Andy,
+Tuesday:C:
+Tuesday:D:Dr. Brakeman,
+Tuesday:E:
+Tuesday:Lunch:Dr. Brakeman,
+Tuesday:F:
+Tuesday:G:
+Tuesday:A:
+Wednesday:A1:Andy,
+Wednesday:A2:
+Wednesday:B1:
+Wednesday:B2:
+Wednesday:Lunch:Dr. Brakeman,
+Wednesday:C1:
+Wednesday:C2:
+Wednesday:D1:
+Wednesday:D2:
+Thursday:G1:Andy,
+Thursday:G2:
+Thursday:F1:
+Thursday:F2:
+Thursday:Lunch:
+Thursday:E1:
+Thursday:E2:
+Friday:D:Andy,
+Friday:E:
+Friday:F:
+Friday:Lunch:
+Friday:G:Dr. Brakeman,
+Friday:A:Dr. Brakeman,
+Friday:B:
+Friday:C:
